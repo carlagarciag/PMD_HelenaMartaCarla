@@ -1,4 +1,4 @@
-#Predicción de ictus mediante técnicas de Machine Learning y procesamiento masivo de datos.
+Predicción de ictus mediante técnicas de Machine Learning y procesamiento masivo de datos.
 
 Este repositorio contiene:
 1. Base de datos inicial. Archivo: healthcare-dataset-stroke-data.csv
